@@ -1,8 +1,8 @@
 # Larymer
 A marriage of Laravel 5 and Polymer 1
 
-[![Laravel](https://laravel.com/)](https://laravel.com/)
-[![Polymer](https://www.polymer-project.org/1.0/)](https://www.polymer-project.org/1.0/)
+[![Laravel](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1423519219laravel-l-slant.png)](https://laravel.com/)
+[![Polymer](https://blog.polymer-project.org/images/logos/p-logo.png)](https://www.polymer-project.org/1.0/)
 
 ## Laravel Setup
 
