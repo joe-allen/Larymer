@@ -1,8 +1,8 @@
 # Larymer
 A marriage of Laravel 5 and Polymer 1
 
-[![Laravel](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1423519219laravel-l-slant.png)](https://laravel.com/)
-[![Polymer](https://blog.polymer-project.org/images/logos/p-logo.png)](https://www.polymer-project.org/1.0/)
+[![Laravel](https://laravel.com/assets/img/laravel-logo.png)](https://laravel.com/)
+[![Polymer](https://www.polymer-project.org/images/logos/lockup.svg)](https://www.polymer-project.org/1.0/)
 
 ## Laravel Setup
 
@@ -28,3 +28,14 @@ In your config/database.php file
 
 ## Polymer Setup
 
+Install with Bower
+
+- https://www.polymer-project.org/1.0/docs/start/getting-the-code.html
+
+- You will be prompted to setup your bower.json file
+
+- Once install move you bower_components and bower.json file into Laravel's 'public' folder
+
+- You should be able to now use Laravel normally
+
+- If using the blade templating engine with Laravel make sure to use the @{{}} syntax on Polymer's bound data since both use the curly bracket syntax. (the @ sign tells blade not to touch https://laravel.com/docs/5.1/blade)
