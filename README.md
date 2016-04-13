@@ -16,7 +16,7 @@ In your config/app.php file
 
 - Set Encryption Key (php artisan key:generate on CLI)
 
-Should be set up now. Visit your application's URL to verify
+Visit your application's URL to verify installation
 
 
 (BELOW IS HOW THE INITIAL SETUP WENT).
