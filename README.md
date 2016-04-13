@@ -1,8 +1,25 @@
 # Larymer
-A marriage of Laravel 5 and Polymer 1
+A marriage of Laravel 5 and Polymer 1.
 
 [![Laravel](https://laravel.com/assets/img/laravel-logo.png)](https://github.com/laravel/laravel)
 [![Polymer](https://www.polymer-project.org/images/logos/lockup.svg)](https://github.com/Polymer/polymer)
+
+## Larymer Setup
+
+- Clone repo
+
+- Change chmod -R 777 storage and bootstrap/cache
+
+In your config/app.php file
+
+- Set the application URL
+
+- Set Encryption Key (php artisan key:generate on CLI)
+
+- Should be set up now. Visit your application's URL to verify
+
+
+(BELOW IS HOW THE INITIAL SETUP WENT).
 
 ## Laravel Setup
 
