@@ -1,0 +1,13 @@
+{
+  "name": "Larymer",
+  "authors": [
+    "Joe Allen <joe@jumprope.design>"
+  ],
+  "description": "Laravel + Polymer",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
